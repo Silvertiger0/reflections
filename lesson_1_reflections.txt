@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+It was helpful but I felt that the way the FC shows the files could be a bit simpler. Maybe there's an easier way to compare the two files. I guess I'll just have to get used to the way it looks for now.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+You can review any changes to the document that you're working on. If you spend a lot of time making changes and cannot figure out why something is not working, you can go back to a version that did.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+The pros are that you'd be able to control when a change that you've made is significant to what you're doing. You may also be able to decide if one change is related to another. The power is in your hands. The cons are that you could end up not saving at all or if there's a power outage, you could lose all your progress if you have not saved.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+In systems like Git, you're more likely storing and editing programmer files using various programming languages that may or may not have something to do with one another. On Google docs, you're more likely to be changing only documents that don't relate in the same way that programming files do.
+
+How can you use the commands git log and git diff to view the history of files?
+By using git log, you can view the version history of files. By using git diff, you can compare two versions and see what has been changed.
+
+How might using version control make you more confident to make changes that could break something?
+version control gives you the comfort of know that if you introduce something that destroys your program, you can always go back to a version before the erroneous code was introduced. This gives you confidence to explore as much as you like.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Good question...
