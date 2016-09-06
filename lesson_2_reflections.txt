@@ -6,3 +6,6 @@ The staging area is where something is placed to prepare it to be committed. Thi
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can compare what you have on your staging area to the latest commit and the working directory so that you can make sure that you have only one logical change. If not you can add or subtract what is on your staging area by using git add and git reset.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If i had a new idea that I wanted to try but wanted to have a working version, making a new branch would be fantastic. This way I could test my idea out on one branch and still have a working version on another.
