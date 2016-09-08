@@ -15,3 +15,6 @@ By looking at the diagrams you can see how each relates to one another and wheth
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 This allows us to access the changes that were in one branch that didn't show up in the main one. This is how we can  make the changes in two branches converge. They will order themselves according to time stamp. We represent them in this way so that we can see where the changes came from.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Merging manually could take you forever if there were a lot of changes in the branches being merged. So the auto merging in git is a big help in saving time. Of course, if there were specific changes you did not want to include in the merge there may be something you could do if you were doing it manually whereas automatic merging won't let you do that.
