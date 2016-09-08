@@ -12,3 +12,6 @@ If I had a new idea that I wanted to try but wanted to have a working version, m
 
 How do the diagrams help you visualize the branch structure?
 By looking at the diagrams you can see how each relates to one another and whether or not you'll be able to reach a certain change from the current branch. You may have to change or merge branches to access changes that occurred at a different point along the development of the project.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+This allows us to access the changes that were in one branch that didn't show up in the main one. This is how we can  make the changes in two branches converge. They will order themselves according to time stamp. We represent them in this way so that we can see where the changes came from.
